@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "Aftonbladet_News",
+        "img": "https://pbs.twimg.com/profile_images/1072128473781669888/FEtlDDj4.jpg",
+        "url":"https://www.gp.se/nyheter",
+        "title":"News",
+        "description":"Gothenburg News" 
+    },
+    {
+        "id":"Being_Sports_News",
+        "img":"https://www.albawaba.com/sites/default/files/im/Sport/bein-tv-sports.jpg",
+        "url":"https://www.beinsports.com/en/tag/english/",
+        "title":"Sports",
+        "description":"Sports News"
+    },
+    {
+        "id":"Youtube_Trending",
+        "img":"https://cdn.windowsreport.com/wp-content/uploads/2019/05/How-to-fix-Error-400-on-YouTube-in-3-easy-steps.png",
+        "uyl":"https://www.youtube.com/channel/UCgGzSIa8zIsJHbSs0bLplag",
+        "title":"Youtube Trending",
+        "description":"Popular on YouTube"
+    }
+]
